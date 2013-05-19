@@ -12,4 +12,4 @@ PHP Picture Index is a free, quick to install, image gallery script. PHPPI does 
  
 ## Release
 
-Version 1.3.0 to be released on GitHub, currently 1.3.0 is still in progress, you can download 1.2.0 from http://phppi.pixelizm.com
+Version 1.3.0 to be released on GitHub, currently 1.3.0 is still in progress, you can download 1.2.0 from the [official website](http://phppi.pixelizm.com)
